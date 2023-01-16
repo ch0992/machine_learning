@@ -1,3 +1,6 @@
+# 아래는 바이온사이트 과제간 수행한 문제이며 숫자로 넘버링된 4개의 파일이 결과로 제출된 내용임. (2022년 12월 28일 ~ 1월 1일)
+
+
 # Compound Classification
 
 For a given compound samples, implement a classifier that predicts the probability of a compound being `active`. The compound dataset is grouped into `train`, and `test`. You should use `train` for training your classifier, and `test` for evaluation.
